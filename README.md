@@ -48,7 +48,7 @@ Parkly/
 ## 🚦 Getting Started
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ziad-ahmed-abdulrahman/parkly-api.git
 cd Parkly
 npm install
 ```
